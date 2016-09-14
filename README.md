@@ -30,10 +30,10 @@ Deve ser feita uma tela de detalhes, que abre a partir do clique em um item da l
 
 ### Objetivo Bônus:
 
-	* Utilização de bibliotecas para consumo de serviços (Ion ou Retrofit)
-	* Compartilhamento quanto tiver link de web (na tela de detalhes).
-	* Sem ocorrências de overdraw
-	* Sinta-se à vontade para fazer seu bônus
+- Utilização de bibliotecas para consumo de serviços (Ion ou Retrofit)
+- Compartilhamento quanto tiver link de web (na tela de detalhes).
+- Sem ocorrências de overdraw
+- Sinta-se à vontade para fazer seu bônus
 
 ### API:
 

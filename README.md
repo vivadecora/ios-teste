@@ -26,7 +26,7 @@ Deve ser feita uma lista, em que cada elemento tenha a imagem, o nome do local("
 
 Deve ser feita uma tela de detalhes, que abre a partir do clique em um item da lista da Tela 1. Deve ser exibido a imagem, o nome ("name"), o endereço ("address", "city", "state", "country") e a média de nota ("average_rating"). Quando existir, deve mostrar o conteúdo "stats" e o "link". 
 
-![alt text](https://github.com/vivadecora/ios-teste/blob/master/iPhone%2002  .png "Tela 2")
+![alt text](https://github.com/vivadecora/ios-teste/blob/master/iPhone%2002.png "Tela 2")
 
 ### Objetivo Bônus:
 

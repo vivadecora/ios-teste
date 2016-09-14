@@ -56,8 +56,7 @@ http://aviewfrommyseat.com/wallpaper/<image>
 https://aviewfrommyseat.com/avf/api/venue.php?appkey=f6bcd8e8bb853890f4fb2be8ce0418fa&venue=<nome da venue>&info=true
 ```
 
-(Exemplo: https://aviewfrommyseat.com/avf/api/venue.php?
-appkey=f6bcd8e8bb853890f4fb2be8ce0418fa&venue=Arthur+Ashe+Stadium&info=true)
+(Exemplo: https://aviewfrommyseat.com/avf/api/venue.php?appkey=f6bcd8e8bb853890f4fb2be8ce0418fa&venue=Arthur+Ashe+Stadium&info=true)
 
 #### A url para obter a imagem da Tela 2 (Detalhes) é obtida concatenando a string do campo “newest_image” na url:
 

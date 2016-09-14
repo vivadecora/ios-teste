@@ -42,7 +42,7 @@ Essa API permite diversos tipos de consultas. Ela é baseada em fotos postadas p
 
 
 #### A url para obter os dados da Tela 1 (Lista):
-https://aviewfrommyseat.com/avf/api/featured.php?appkey=f6bcd8e8bb853890f4fb2be8ce0418fa A url para obter a imagem de cada item da lista da Tela 1 é obtida concatenando a url abaixo mais o campo "image" que retorna no json:
+> https://aviewfrommyseat.com/avf/api/featured.php?appkey=f6bcd8e8bb853890f4fb2be8ce0418fa A url para obter a imagem de cada item da lista da Tela 1 é obtida concatenando a url abaixo mais o campo "image" que retorna no json:
 http://aviewfrommyseat.com/wallpaper/<image>
 
 #### A url para obter os dados da Tela 2 (Detalhes) é obtida concatenando o nome da venue na url no lugar de "<nome da venue>:
@@ -59,5 +59,5 @@ appkey=f6bcd8e8bb853890f4fb2be8ce0418fa&venue=Arthur+Ashe+Stadium&info=true)
 > http://developer.aviewfrommyseat.com/docs.php#api_featured
 
 #### Submissão:
-Crie um repositório com o nome recrutamento-android na sua conta do GitHub ou Bitbucket e mande a url do repositório
+Crie um repositório com o nome recrutamento-ios na sua conta do GitHub ou Bitbucket e mande a url do repositório
 

@@ -70,6 +70,3 @@ http://aviewfrommyseat.com/photos/<newest_image>
 http://developer.aviewfrommyseat.com/docs.php#api_featured
 ```
 
-#### Submissão:
-Crie um repositório com o nome recrutamento-ios na sua conta do GitHub ou Bitbucket e mande a url do repositório
-

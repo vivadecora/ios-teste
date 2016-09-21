@@ -28,12 +28,11 @@ Deve ser feita uma tela de detalhes, que abre a partir do clique em um item da l
 
 ![alt text](https://github.com/vivadecora/ios-teste/blob/master/iPhone%2002.png "Tela 2")
 
-### Objetivo Bônus:
+### Objetivos Bônus:
 
-- Utilização de bibliotecas para consumo de serviços (Ion ou Retrofit)
-- Compartilhamento quanto tiver link de web (na tela de detalhes).
-- Sem ocorrências de overdraw
-- Sinta-se à vontade para fazer seu bônus
+- Implementação de testes com relatório de cobertura;
+- Compartilhamento quanto tiver link de web (na tela de detalhes);
+- Sinta-se à vontade para fazer seu bônus.
 
 ### API:
 
@@ -56,7 +55,9 @@ http://aviewfrommyseat.com/wallpaper/<image>
 https://aviewfrommyseat.com/avf/api/venue.php?appkey=f6bcd8e8bb853890f4fb2be8ce0418fa&venue=<nome da venue>&info=true
 ```
 
-> (Exemplo: https://aviewfrommyseat.com/avf/api/venue.php?appkey=f6bcd8e8bb853890f4fb2be8ce0418fa&venue=Arthur+Ashe+Stadium&info=true)
+> Exemplo: 
+https://aviewfrommyseat.com/avf/api/venue.php?appkey=f6bcd8e8bb853890f4fb2be8ce0418fa&venue=Arthur+Ashe+Stadium&info=true
+
 
 #### A url para obter a imagem da Tela 2 (Detalhes) é obtida concatenando a string do campo “newest_image” na url:
 
@@ -70,3 +71,11 @@ http://aviewfrommyseat.com/photos/<newest_image>
 http://developer.aviewfrommyseat.com/docs.php#api_featured
 ```
 
+#### Critérios de avaliação:
+- Organização do código: desacoplamento e legibilidade contam;
+- Flexibilidade do sistema para adição/remoção de funcionalidades;
+
+#### Como vamos avaliar:
+- O código do aplicativo será clonado de algum repositório público e será executado através do XCode sobre diferentes dispositivos iOS emulados (a partir do iPhone 5);
+- Vamos ler o código;
+- Caso haja relatório de cobertura de testes, vamos analisá-lo;
